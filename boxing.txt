@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://i.imgur.com/yAyUsZ6.png" group-title="Live Events",White-vs-Romero
-https://example.com/stream/white-romero
+#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/hp92KtA" group-title="Live Events",Chris-Eubank-Jr-vs-Conor-Benn
+https://vivosoccer.xyz/vivo1/28.php
 
-#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://i.imgur.com/dUv15hl.png" group-title="Live Events",Ennis-vs-Stanionis
-https://example.com/stream/ennis-stanionis-1
+#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/hp92KtA" group-title="Live Events",Chris-Eubank-Jr-vs-Conor-Benn
+https://papahdd1.live/chris-eubank-jr-vs-conor-benn/
 
-#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://i.imgur.com/dUv15hl.png" group-title="Live Events",Ennis-vs-Stanionis (2)
-https://example.com/stream/ennis-stanionis-2
+#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/hp92KtA" group-title="Live Events",Chris-Eubank-Jr-vs-Conor-Benn (2)
+https://abcsports.store/mko777sda/sst28/
 
-#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://i.imgur.com/dUv15hl.png" group-title="Live Events",Ennis-vs-Stanionis (3)
-https://example.com/stream/ennis-stanionis-3
+#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/hp92KtA" group-title="Live Events",Chris-Eubank-Jr-vs-Conor-Benn (3)
+https://streamexpertz.pro/texoo1/ex8/
 
-#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://i.imgur.com/dUv15hl.png" group-title="Live Events",Ennis-vs-Stanionis (4)
-https://example.com/stream/ennis-stanionis-4
+#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/hp92KtA" group-title="Live Events",Chris-Eubank-Jr-vs-Conor-Benn (4)
+https://deporte-libre.link/stream/stream-107.php
 
-#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://i.imgur.com/dUv15hl.png" group-title="Live Events",Ennis-vs-Stanionis (5)
-https://example.com/stream/ennis-stanionis-5
+#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/hp92KtA" group-title="Live Events",Chris-Eubank-Jr-vs-Conor-Benn (5)
+https://deporte-libre.link/stream/stream-166.php
 
-#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://i.imgur.com/dUv15hl.png" group-title="Live Events",Ennis-vs-Stanionis (6)
-https://example.com/stream/ennis-stanionis-6
+#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/hp92KtA" group-title="Live Events",Chris-Eubank-Jr-vs-Conor-Benn (6)
+https://deporte-libre.link/stream/stream-167.php

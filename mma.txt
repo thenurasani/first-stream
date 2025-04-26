@@ -1,25 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/8OudKUb.png" group-title="Live Events",#PFL2025
-https://example.com/stream/pfl-link1
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://imgur.com/aqc6Rhs" group-title="Live Events",#UFCKansasCity
+https://vivosoccer.xyz/spo/55/
 
-#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/8OudKUb.png" group-title="Live Events",#PFL2025 (2)
-https://example.com/stream/pfl-link2
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://imgur.com/aqc6Rhs" group-title="Live Events",#UFCKansasCity (2)
+https://deporte-libre.link/stream/stream-59.php
 
-#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/8OudKUb.png" group-title="Live Events",#PFL2025 (3)
-https://example.com/stream/pfl-link3
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://imgur.com/aqc6Rhs" group-title="Live Events",#UFCKansasCity (3)
+https://deporte-libre.link/stream/stream-31.php
 
-#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/8OudKUb.png" group-title="Live Events",#PFL2025 (4)
-https://example.com/stream/pfl-link4
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://imgur.com/aqc6Rhs" group-title="Live Events",#UFCKansasCity (4)
+https://deporte-libre.link/stream/stream-45.php
 
-#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/8OudKUb.png" group-title="Live Events",#PFL2025 (5)
-https://example.com/stream/pfl-link5
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://imgur.com/aqc6Rhs" group-title="Live Events",#UFCKansasCity (5)
+https://www.streameast.gd/main-event/ufc/955647
 
-#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/8OudKUb.png" group-title="Live Events",#PFL2025 (6)
-https://example.com/stream/pfl-link6
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://imgur.com/aqc6Rhs" group-title="Live Events",#UFCKansasCity (6)
+https://1stream.eu/title-game/ufc/ufc-fight-night-hill-vs-rountree-jr-live-stream/9653
 
-#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/8OudKUb.png" group-title="Live Events",#PFL2025 (7)
-https://example.com/stream/pfl-link7
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://imgur.com/aqc6Rhs" group-title="Live Events",#UFCKansasCity (7)
+https://deporte-libre.link/stream/stream-409.php
 
-#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/8OudKUb.png" group-title="Live Events",#PFL2025 (8)
-https://example.com/stream/pfl-link8
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://imgur.com/aqc6Rhs" group-title="Live Events",#UFCKansasCity (8)
+https://deporte-libre.link/stream/stream-834.php
