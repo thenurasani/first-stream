@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/8OudKUb.png" group-title="Live Events",#PFL2025
+https://example.com/stream/pfl-link1
+
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/8OudKUb.png" group-title="Live Events",#PFL2025 (2)
+https://example.com/stream/pfl-link2
+
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/8OudKUb.png" group-title="Live Events",#PFL2025 (3)
+https://example.com/stream/pfl-link3
+
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/8OudKUb.png" group-title="Live Events",#PFL2025 (4)
+https://example.com/stream/pfl-link4
+
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/8OudKUb.png" group-title="Live Events",#PFL2025 (5)
+https://example.com/stream/pfl-link5
+
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/8OudKUb.png" group-title="Live Events",#PFL2025 (6)
+https://example.com/stream/pfl-link6
+
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/8OudKUb.png" group-title="Live Events",#PFL2025 (7)
+https://example.com/stream/pfl-link7
+
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/8OudKUb.png" group-title="Live Events",#PFL2025 (8)
+https://example.com/stream/pfl-link8
