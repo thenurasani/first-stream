@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/hp92KtA" group-title="Live Events",Chris-Eubank-Jr-vs-Conor-Benn
+#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/aL30mbK" group-title="Live Events",Garcia-vs-Rolly
 https://vivosoccer.xyz/vivo1/28.php
 
-#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/hp92KtA" group-title="Live Events",Chris-Eubank-Jr-vs-Conor-Benn
+#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/aL30mbK" group-title="Live Events",Garcia-vs-Rolly (2)
 https://papahdd1.live/chris-eubank-jr-vs-conor-benn/
 
-#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/hp92KtA" group-title="Live Events",Chris-Eubank-Jr-vs-Conor-Benn (2)
+#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/aL30mbK" group-title="Live Events",Garcia-vs-Rolly (3)
 https://abcsports.store/mko777sda/sst28/
 
-#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/hp92KtA" group-title="Live Events",Chris-Eubank-Jr-vs-Conor-Benn (3)
+#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/aL30mbK" group-title="Live Events",Garcia-vs-Rolly (4)
 https://streamexpertz.pro/texoo1/ex8/
 
-#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/hp92KtA" group-title="Live Events",Chris-Eubank-Jr-vs-Conor-Benn (4)
+#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/aL30mbK" group-title="Live Events",Garcia-vs-Rolly (5)
 https://deporte-libre.link/stream/stream-107.php
 
-#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/hp92KtA" group-title="Live Events",Chris-Eubank-Jr-vs-Conor-Benn (5)
+#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/aL30mbK" group-title="Live Events",Garcia-vs-Rolly (6)
 https://deporte-libre.link/stream/stream-166.php
 
-#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/hp92KtA" group-title="Live Events",Chris-Eubank-Jr-vs-Conor-Benn (6)
+#EXTINF:-1 iso-id="US" type-id="#008" tvg-logo="https://imgur.com/aL30mbK" group-title="Live Events",Garcia-vs-Rolly (7)
 https://deporte-libre.link/stream/stream-167.php
